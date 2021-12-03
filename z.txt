@@ -1,4 +1,3 @@
-welcome to every one
 <html>
 <head>
 <body>
@@ -6,3 +5,4 @@ welcome to every one
 </body>
 </head>
 </html>
+
